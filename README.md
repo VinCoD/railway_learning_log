@@ -1,6 +1,6 @@
 # How To Use This Django Repository:
-$ git clone https://github.com/VinCoD/learning_logs.git <br/>
-$ cd learning_logs <br/>
+$ git clone https://github.com/VinCoD/railway_learning_logs.git <br/>
+$ cd railway_learning_logs <br/>
 $ virtualenv ll_env <br/>
 $ source ll_env/bin/activate <br/>
 $ pip install django <br/>
