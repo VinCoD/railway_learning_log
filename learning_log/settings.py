@@ -125,3 +125,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # My settings
 LOGIN_URL = 'users:login'
+
+STATIC_ROOT = BASE_DIR / "staticfiles"
+# new
+STATICFILES_STORAGE = "django.contrib.staticfiles.storage.StaticFilesStorage"
