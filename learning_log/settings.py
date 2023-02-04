@@ -128,6 +128,6 @@ LOGIN_URL = 'users:login'
 
 STATIC_ROOT = BASE_DIR / "staticfiles"
 # new
-STATICFILES_STORAGE = "django.contrib.staticfiles.storage.StaticFilesStorage"
+
 
 CSRF_TRUSTED_ORIGINS = ["https://*.railway.app/",]
